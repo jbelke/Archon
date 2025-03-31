@@ -28,7 +28,7 @@ Through its iterative development, Archon showcases the power of planning, feedb
 
 - I **just** created the [Archon community](https://thinktank.ottomator.ai/c/archon/30) forum over in the oTTomator Think Tank! Please post any questions you have there!
 
-- [GitHub Kanban board](https://github.com/users/coleam00/projects/1) for feature implementation and bug squashing.
+- [GitHub Kanban board](https://github.com/users/jbelke/projects/1) for feature implementation and bug squashing.
 
 ## Vision
 
@@ -53,7 +53,7 @@ Since V5 is the current version of Archon, all the code for V5 is in both the ma
 #### Option 1: Docker (Recommended)
 1. Clone the repository:
 ```bash
-git clone https://github.com/coleam00/archon.git
+git clone https://github.com/jbelke/archon.git
 cd archon
 ```
 
@@ -74,7 +74,7 @@ python run_docker.py
 #### Option 2: Local Python Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/coleam00/archon.git
+git clone https://github.com/jbelke/archon.git
 cd archon
 ```
 
@@ -203,7 +203,7 @@ This ensures you're always running the most recent version of Archon with all th
 - MCP marketplace
 - Other frameworks besides Pydantic AI
 - Other vector databases besides Supabase
-- [Local AI package](https://github.com/coleam00/local-ai-packaged) for the agent environment
+- [Local AI package](https://github.com/jbelke/local-ai-packaged) for the agent environment
 
 ## Archon Agents Architecture
 
